@@ -6,4 +6,5 @@ Some of the projects im doing to start with arduino.Schematics done with [Fritzi
 ## Resources:
 
 [Jeremy Blum Tutorials](https://github.com/sciguy14)
+
 [ Vladimir Romanov's Portfolio](https://github.com/sciguy14)
