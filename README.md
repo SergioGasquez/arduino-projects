@@ -1,7 +1,7 @@
 # Arduino Projects
 
 
-Some of the projects im doing to start with arduino.Schematics done with [Fritzing](http://fritzing.org/home/)
+Bunch of basic projects to start with arduino.Schematics done with [Fritzing](http://fritzing.org/home/)
 
 ## Resources:
 
